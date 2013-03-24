@@ -1,0 +1,3 @@
+[submodule "PageMarker"]
+	path = PageMarker
+	url = https://github.com/aurojr/PageMarker.git
